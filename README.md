@@ -1,5 +1,7 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/MichalSvatos/MichalSvatos/main/images/michalsvatos-dev-designer-bttf.svg" width="300" alt="Michal Svatos | Frontend Developer, designer">
+    <a href="https://svatos.dev" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/MichalSvatos/MichalSvatos/main/images/michalsvatos-dev-designer-bttf.svg" width="300" alt="Michal Svatos | Frontend Developer, designer">
+    </a>
 </p>
 
 <h1 align="center">Hi! Nice to see you here 👋</h1>
@@ -7,7 +9,7 @@
 I'm self-taught frontend developer/graphic designer/UX designer with more than 10 years of experience in different areas. I'm a privacy advocate, open source enthusiast and aspiring digital minimalist.
 
 - 📍 Currently living in **Canada** 🇨🇦, Ontario.
-- 🔭 Looking for a meaningful job that solves actual problem for people  
+- 🔭 **Looking for a meaningful job that solves actual problem for people**  
 - ❤️‍🔥 I love CSS, frontend web development, tweaking, refactoring and design and art in general  
 - 🌐 no social networks, sorry 🤷
 
@@ -25,7 +27,7 @@ I'm self-taught frontend developer/graphic designer/UX designer with more than 1
 > _-- Thomas Sowell_
 
 ### Interesting books I've read recently
-|                               **[Project Hail Mary (Andy Weir)](https://bookwyrm.social/book/215201/s/project-hail-mary)**                                |                                                         **The Industry of Lies (Alex Alvarova)**                                                          |                               **[Why We Sleep (Matthew Walker)](https://bookwyrm.social/book/115100/s/why-we-sleep)**                                |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------:|
-|                                                                      Amazing sci-fi                                                                       | Unfortunately only in [Czech](https://www.goodreads.com/book/show/36628614-pr-mysl-l-i) ATM, but [English version is coming](https://alvarova.com/books/) |                                                          Ways to improve your sleep hygiene                                                          |
-| <img src="https://github.com/MichalSvatos/MichalSvatos/raw/main/images/book-cover-project-hail-mary.jpg" alt="Project Hail Mary (Andy Weir)" width="150"> | <img src="https://github.com/MichalSvatos/MichalSvatos/raw/main/images/book-cover-industry-of-lies.jpg" alt="Industry of lies, Průmysl lži" width="150">  | <img src="https://github.com/MichalSvatos/MichalSvatos/raw/main/images/book-cover-why-we-sleep.jpg" alt="Why We Sleep (Matthew Walker)" width="150"> |
+|                              **[Project Hail Mary<br>(Andy Weir)](https://bookwyrm.social/book/215201/s/project-hail-mary)**                              |                                                         **The Industry of Lies<br>(Alex Alvarova)**                                                          |                              **[Why We Sleep<br>(Matthew Walker)](https://bookwyrm.social/book/115100/s/why-we-sleep)**                              |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------:|
+|                                                                      Amazing sci-fi                                                                       | Unfortunately only in [Czech](https://www.goodreads.com/book/show/36628614-pr-mysl-l-i) ATM,<br>but [English version is coming](https://alvarova.com/books/) |                                                          Ways to improve your sleep hygiene                                                          |
+| <img src="https://github.com/MichalSvatos/MichalSvatos/raw/main/images/book-cover-project-hail-mary.jpg" alt="Project Hail Mary (Andy Weir)" width="150"> |   <img src="https://github.com/MichalSvatos/MichalSvatos/raw/main/images/book-cover-industry-of-lies.jpg" alt="Industry of lies, Průmysl lži" width="150">   | <img src="https://github.com/MichalSvatos/MichalSvatos/raw/main/images/book-cover-why-we-sleep.jpg" alt="Why We Sleep (Matthew Walker)" width="150"> |
