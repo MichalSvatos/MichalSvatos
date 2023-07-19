@@ -51,51 +51,51 @@ minimalist.
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="https://signal.org/" rel="noopener noreferrer">
         <img src="./images/ico-signal.svg" width="32" height="32" alt="Signal" />
       </a>
       <br><a href="https://signal.org/" rel="noopener noreferrer">Signal</a>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="https://mullvad.net/" rel="noopener noreferrer">
         <img src="./images/ico-mullvad.svg" width="32" height="32" alt="Mullvad VPN" />
       </a>
       <br><a href="https://mullvad.net/" rel="noopener noreferrer">Mullvad VPN</a>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="https://simplelogin.io/" rel="noopener noreferrer">
         <img src="./images/ico-simplelogin.svg" width="32" height="32" alt="SimpleLogin" />
       </a>
       <br><a href="https://simplelogin.io/" rel="noopener noreferrer">SimpleLogin</a>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="https://proton.me/" rel="noopener noreferrer">
         <img src="./images/ico-proton.svg" width="32" height="32" alt="Proton" />
       </a>
       <br><a href="https://proton.me/" rel="noopener noreferrer">Proton</a>
-    </td>
-    <td align="center" width="96">
+    </td></tr><tr>
+    <td align="center" width="120">
       <a href="https://joplinapp.org/" rel="noopener noreferrer">
         <img src="./images/ico-joplin.svg" width="32" height="32" alt="Joplin" />
       </a>
       <br><a href="https://joplinapp.org/" rel="noopener noreferrer">Joplin</a>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="https://www.techlore.tech/" rel="noopener noreferrer">
         <img src="./images/ico-techlore.svg" width="32" height="32" alt="Techlore" />
       </a>
       <br><a href="https://www.techlore.tech/" rel="noopener noreferrer">Techlore</a>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="https://www.youtube.com/powerm1985" rel="noopener noreferrer">
         <img src="./images/ico-mp.svg" width="32" height="32" alt="Myles Power" />
       </a>
       <br><a href="https://www.youtube.com/powerm1985" rel="noopener noreferrer">Myles Power</a>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="https://www.youtube.com/PatrikKorenar" rel="noopener noreferrer">
-        <img src="./images/ico-patreon.svg" width="32" height="32" alt="Patrik Kořenář" />
+        <img src="./images/ico-youtube.svg" width="32" height="32" alt="Patrik Kořenář" />
       </a>
       <br><a href="https://www.youtube.com/PatrikKorenar" rel="noopener noreferrer">Patrik Kořenář</a>
     </td>
