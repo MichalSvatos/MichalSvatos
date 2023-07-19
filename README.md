@@ -18,19 +18,23 @@ I'm self-taught frontend developer/graphic designer/UX designer with more than 1
 
 ## Projects
 ### Currently working on
-[![Pi-hole Star Trek Picard LCARS Theme](https://github.com/MichalSvatos/pi-hole-star-trek-picard/raw/main/previews/pi-hole-star-trek-picard-lcars.png)](https://github.com/MichalSvatos/pi-hole-star-trek-picard/)
-LCARS Theme for [Pi-hole](https://github.com/pi-hole/pi-hole) dashboard. Written completely from scratch with pure CSS.
+| [![Pi-hole Star Trek Picard LCARS Theme](https://github.com/MichalSvatos/pi-hole-star-trek-picard/raw/main/previews/pi-hole-star-trek-picard-lcars.png)](https://github.com/MichalSvatos/pi-hole-star-trek-picard/) |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| LCARS Theme for [Pi-hole](https://github.com/pi-hole/pi-hole) dashboard. Written completely from scratch with pure CSS.                                                                                             |
 
 
-![Boardgame companion](https://github.com/MichalSvatos/MichalSvatos/raw/main/images/preview-header-boardgame-companion.jpg)
-Companion app for a boardgame in React. Stay tuned :wink:
+| ![Boardgame companion](https://github.com/MichalSvatos/MichalSvatos/raw/main/images/preview-header-boardgame-companion.jpg) |
+|-----------------------------------------------------------------------------------------------------------------------------|
+| Companion app for a boardgame in React. Stay tuned :wink:                                                                   |
 
 ### Previous ones
-[![Mr. Shareman](https://github.com/MichalSvatos/MichalSvatos/raw/main/images/preview-header-mrshareman.png)](https://michalsvatos.github.io/mr-shareman/)
-Simple PWA to share text information on the screen of your device.
+| [![Mr. Shareman](https://github.com/MichalSvatos/MichalSvatos/raw/main/images/preview-header-mrshareman.png)](https://michalsvatos.github.io/mr-shareman/) |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Simple PWA to share text information on the screen of your device.                                                                                         |
 
-[![Mr. Shareman](https://github.com/MichalSvatos/MichalSvatos/raw/main/images/preview-header-helpforitaly.png)](https://michalsvatos.github.io/helpforitaly/)
-Website with a list of institutions and campaigns to support Italy during their fight with COVID-19 in 2020.
+| [![Mr. Shareman](https://github.com/MichalSvatos/MichalSvatos/raw/main/images/preview-header-helpforitaly.png)](https://michalsvatos.github.io/helpforitaly/) |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Website with a list of institutions and campaigns to support Italy during their fight with COVID-19 in 2020.                                                  |
 
 
 ## How to reach me
