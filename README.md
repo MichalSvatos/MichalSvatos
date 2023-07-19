@@ -13,10 +13,27 @@ I'm self-taught frontend developer/graphic designer/UX designer with more than 1
 - ❤️‍🔥 I love CSS, frontend web development, tweaking, refactoring and design and art in general  
 - 🌐 no social networks, sorry 🤷
 
-### Some languages and tools I use
+## Some languages and tools I use
 ![css](https://img.shields.io/static/v1?logo=css3&label=&message=CSS&color=272727&logoColor=1572B6&style=for-the-badge) ![less](https://img.shields.io/static/v1?logo=less&label=&message=LESS&color=272727&logoColor=1D365D&style=for-the-badge) ![scss](https://img.shields.io/static/v1?logo=sass&label=&message=SCSS&color=272727&logoColor=CC6699&style=for-the-badge) ![html](https://img.shields.io/static/v1?logo=html5&label=&message=HTML&color=272727&logoColor=E34F26&style=for-the-badge) ![figma](https://img.shields.io/static/v1?logo=figma&label=&message=Figma&color=272727&logoColor=F24E1E&style=for-the-badge) ![adobe](https://img.shields.io/static/v1?logo=adobe&label=&message=Adobe&color=272727&logoColor=FF0000&style=for-the-badge) ![affinity](https://img.shields.io/static/v1?logo=affinity&label=&message=Affinity&color=272727&logoColor=1B72BE&style=for-the-badge) ![git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=272727&logoColor=F05032&style=for-the-badge) ![github](https://img.shields.io/static/v1?logo=github&label=&message=Github&color=272727&logoColor=fff&style=for-the-badge) ![bitbucket](https://img.shields.io/static/v1?logo=bitbucket&label=&message=Bitbucket&color=272727&logoColor=0052CC&style=for-the-badge) ![jira](https://img.shields.io/static/v1?logo=jira&label=&message=Jira&color=272727&logoColor=0052CC&style=for-the-badge) ![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=JavaScript&color=272727&logoColor=F7DF1E&style=for-the-badge) ![phpstorm](https://img.shields.io/static/v1?logo=phpstorm&label=&message=PHPStorm&color=272727&logoColor=b345f1&style=for-the-badge) ![vscodium](https://img.shields.io/static/v1?logo=vscodium&label=&message=VSCodium&color=272727&logoColor=2F80ED&style=for-the-badge) ![wordpress](https://img.shields.io/static/v1?logo=wordpress&label=&message=Wordpress&color=272727&logoColor=21759B&style=for-the-badge) ![twig](https://img.shields.io/static/v1?logo=symfony&label=&message=Twig&color=272727&logoColor=bacf2a&style=for-the-badge) ![gulp](https://img.shields.io/static/v1?logo=gulp&label=&message=Gulp&color=272727&logoColor=CF4647&style=for-the-badge) ![vitejs](https://img.shields.io/static/v1?logo=vite&label=&message=Vite&color=272727&logoColor=646CFF&style=for-the-badge) ![react](https://img.shields.io/static/v1?logo=react&label=&message=React&color=272727&logoColor=61DAFB&style=for-the-badge) ![php](https://img.shields.io/static/v1?logo=php&label=&message=PHP&color=272727&logoColor=777BB4&style=for-the-badge) ![prettier](https://img.shields.io/static/v1?logo=prettier&label=&message=Prettier&color=272727&logoColor=F7B93E&style=for-the-badge) ![markdown](https://img.shields.io/static/v1?logo=markdown&label=&message=Markdown&color=272727&logoColor=ffffff&style=for-the-badge) ![terminal](https://img.shields.io/static/v1?logo=gnometerminal&label=&message=Terminal&color=272727&logoColor=ffffff&style=for-the-badge)
 
-### How to reach me
+## Projects
+### Currently working on
+[![Pi-hole Star Trek Picard LCARS Theme](https://github.com/MichalSvatos/pi-hole-star-trek-picard/raw/main/previews/pi-hole-star-trek-picard-lcars.png)](https://github.com/MichalSvatos/pi-hole-star-trek-picard/)
+LCARS Theme for [Pi-hole](https://github.com/pi-hole/pi-hole) dashboard. Written completely from scratch with pure CSS.
+
+
+![Boardgame companion](https://github.com/MichalSvatos/MichalSvatos/raw/main/images/preview-header-boardgame-companion.jpg)
+Companion app for a boardgame in React. Stay tuned :wink:
+
+### Previous ones
+[![Mr. Shareman](https://github.com/MichalSvatos/MichalSvatos/raw/main/images/preview-header-mrshareman.png)](https://michalsvatos.github.io/mr-shareman/)
+Simple PWA to share text information on the screen of your device.
+
+[![Mr. Shareman](https://github.com/MichalSvatos/MichalSvatos/raw/main/images/preview-header-helpforitaly.png)](https://michalsvatos.github.io/helpforitaly/)
+Website with a list of institutions and campaigns to support Italy during their fight with COVID-19 in 2020.
+
+
+## How to reach me
 - [svatos.dev](https://svatos.dev)
 - [Behance](https://www.behance.net/michalsvatos)
 - [LinkedIn](https://www.linkedin.com/in/michalsvatos/)
