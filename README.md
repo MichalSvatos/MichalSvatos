@@ -37,8 +37,9 @@ minimalist.
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Simple PWA to share text information on the screen of your device. Great in combination with [SimpleLogin](#some-projects-and-people-i-support). Design inspired by the Pip-Boy wearable computer from the Fallout video game. |
 
-| [![Mr. Shareman](https://github.com/MichalSvatos/MichalSvatos/raw/main/images/preview-header-helpforitaly.png)](https://michalsvatos.github.io/helpforitaly/) |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [![Help for Italy](https://github.com/MichalSvatos/MichalSvatos/raw/main/images/preview-header-helpforitaly.png)](https://michalsvatos.github.io/helpforitaly/) |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Website with a list of institutions and campaigns to support Italy with their fight against COVID-19 during the pandemic in 2020.                               |
 
 ***
 
