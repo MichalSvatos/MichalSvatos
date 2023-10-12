@@ -50,7 +50,7 @@ minimalist.
 > _“It is so easy to be wrong - and to persist in being wrong - when the costs of being wrong are paid by others.”_  
 > _-- Thomas Sowell_
 
-#### Some projects and people I support
+### Some projects and people I support
 
 <table>
   <tr>
@@ -105,9 +105,32 @@ minimalist.
   </tr>
 </table>
 
-#### Interesting books I've read recently
-
-|     **[Mindf*ck: Cambridge Analytica and the Plot to Break America<br>(Christopher Wylie)](https://bookwyrm.social/book/263439/s/mindfck-cambridge-analytica-and-the-plot-to-break-america)**      |                              **[Project Hail Mary<br>(Andy Weir)](https://bookwyrm.social/book/215201/s/project-hail-mary)**                              |                                                        **The Industry of Lies<br>(Alex Alvarova)**                                                        |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|                                                      <strong>You want to read this book!</strong>                                                      |                                                                      Amazing sci-fi                                                                       | Unfortunately only in [Czech](https://www.goodreads.com/book/show/36628614-pr-mysl-l-i) ATM, but [English version is coming](https://alvarova.com/books/) |
-| <img src="https://github.com/MichalSvatos/MichalSvatos/raw/main/images/book-cover-mindfxck.jpg" alt="Mindf*ck: Cambridge Analytica and the Plot to Break America (Christopher Wylie)" width="150"> | <img src="https://github.com/MichalSvatos/MichalSvatos/raw/main/images/book-cover-project-hail-mary.jpg" alt="Project Hail Mary (Andy Weir)" width="150"> | <img src="https://github.com/MichalSvatos/MichalSvatos/raw/main/images/book-cover-industry-of-lies.jpg" alt="Industry of lies, Průmysl lži" width="150">  |
+### Interesting books I've read recently
+<table>
+  <tr>
+    <td width="180">
+        <img src="https://github.com/MichalSvatos/MichalSvatos/raw/main/images/book-cover-mindfxck.jpg" alt="Mindf*ck: Cambridge Analytica and the Plot to Break America (Christopher Wylie)" width="150">
+    </td>
+    <td>
+        <h3><a href="https://bookwyrm.social/book/263439/s/mindfck-cambridge-analytica-and-the-plot-to-break-america">Mindf*ck: Cambridge Analytica and the Plot to Break America<br>(Christopher Wylie)</a></h3><p><strong>You want to read this book!</strong> Especially if you're using any Meta products.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="180">
+        <img src="https://github.com/MichalSvatos/MichalSvatos/raw/main/images/book-cover-project-hail-mary.jpg" alt="Project Hail Mary (Andy Weir)" width="150">
+    </td>
+    <td>
+        <h3><a href="https://bookwyrm.social/book/215201/s/project-hail-mary">Project Hail Mary<br>(Andy Weir)</a></h3>
+        <p>Amazing sci-fi</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="180">
+        <img src="https://github.com/MichalSvatos/MichalSvatos/raw/main/images/book-cover-industry-of-lies.jpg" alt="Industry of lies, Průmysl lži" width="150">
+    </td>
+    <td>
+        <h3>The Industry of Lies<br>(Alex Alvarova)</h3>
+        <p>Book about modern propaganda (mostly the Russian one) and information warfare. Unfortunately only in <a href="https://www.goodreads.com/book/show/36628614-pr-mysl-l-i">Czech</a> ATM, but <a href="https://alvarova.com/books/">English version is coming</a></p>
+    </td>
+  </tr>
+</table>
