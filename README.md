@@ -109,6 +109,14 @@ minimalist.
 <table>
   <tr>
     <td width="180">
+        <img src="https://github.com/MichalSvatos/MichalSvatos/raw/main/images/book-cover-stolen-focus.jpg" alt="Stolen Focus: Why You Can't Pay Attention- and How to Think Deeply Again (Johann Hari)" width="150">
+    </td>
+    <td>
+        <h3><a href="https://bookwyrm.social/book/322174/s/stolen-focus">Stolen Focus: Why You Can't Pay Attention- and How to Think Deeply Again<br>(Johann Hari)</a></h3><p><i>"I wondered if the motto for our era should be: I tried to live, but I got distracted.”</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="180">
         <img src="https://github.com/MichalSvatos/MichalSvatos/raw/main/images/book-cover-mindfxck.jpg" alt="Mindf*ck: Cambridge Analytica and the Plot to Break America (Christopher Wylie)" width="150">
     </td>
     <td>
