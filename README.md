@@ -15,7 +15,7 @@ minimalist.
 - ✉️ Feel free to contact me on my [website](https://svatos.dev). Alternatively [Behance](https://www.behance.net/michalsvatos) or [LinkedIn](https://www.linkedin.com/in/michalsvatos/)
 - 🌐 no social networks, sorry 🤷
 - <img src="./images/ico-torontojs.png" width="16" height="16" align="center"> <a href="https://torontojs.com/">TorontoJS</a> contributor
-- <img src="./images/ico-pi-hole.svg" width="11" height="16" align="center"> <a href="https://pi-hole.net/">Pi-hole</a> new Star Trek inspired theme creator (coming in the next update)
+- <img src="./images/ico-pi-hole.svg" width="11" height="16" align="center"> <a href="https://pi-hole.net/">Pi-hole</a> Star Trek inspired <a href="https://github.com/MichalSvatos/pi-hole-star-trek-picard/">theme</a> creator
 
 ### Some languages and tools I use
 
