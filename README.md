@@ -25,9 +25,9 @@ minimalist.
 
 #### Currently working on
 
-| [![Techlore](https://github.com/MichalSvatos/raw/main/images/preview-techlore.png)](https://github.com/MichalSvatos/techlore/) |
-|--------------------------------------------------------------------------------------------------------------------------------|
-| [Techlore](https://techlore.tech) website 2.0. New website written from scratch with the help of Jekyll and Bulma framework.   |
+| [![Techlore](https://github.com/MichalSvatos/MichalSvatos/raw/main/images/preview-techlore.png)](https://github.com/MichalSvatos/techlore/) |
+|---------------------------------------------------------------------------------------------------------------------------------------------|
+| [Techlore](https://techlore.tech) website 2.0. New website written from scratch with the help of Jekyll and Bulma framework.                |
 
 | [![Pi-hole Star Trek Picard LCARS Theme](https://github.com/MichalSvatos/pi-hole-star-trek-picard/raw/main/previews/pi-hole-star-trek-picard-lcars.png)](https://github.com/MichalSvatos/pi-hole-star-trek-picard/) |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
