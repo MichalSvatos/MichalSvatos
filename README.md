@@ -1,12 +1,15 @@
 <p align="center">
     <a href="https://svatos.dev" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/MichalSvatos/MichalSvatos/main/images/michalsvatos-dev-designer-bttf.svg" width="400" alt="Michal Svatos | Frontend Developer, designer">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./images/banner--dark.png">
+          <img alt="Michal Svatos | Frontend Developer, Graphic Designer and UX enthusiast" src="./images/banner--light.png">
+        </picture>
     </a>
 </p>
 
-<h1 align="center">Hi! Nice to see you here 👋</h1>
+# Hi! Nice to see you here 👋
 
-I'm self-taught frontend developer/graphic designer/UX designer with more than 10 years of experience in different areas. I'm a privacy advocate, open source enthusiast and aspiring digital
+I'm self-taught Frontend Developer, Graphic Designer and UX enthusiast with more than 10 years of experience in different areas. I'm a privacy advocate, open source enthusiast and aspiring digital
 minimalist.
 
 - 📍 Based in Ontario, **Canada** 🇨🇦
@@ -15,6 +18,7 @@ minimalist.
 - ⚙️ **I thrive on making things work better and more efficiently**
 - ✉️ Feel free to contact me on my [website](https://svatos.dev). Alternatively [Behance](https://www.behance.net/michalsvatos) or [LinkedIn](https://www.linkedin.com/in/michalsvatos/)
 - 🌐 no social networks, sorry 🤷
+- <img src="./images/ico-techlore.svg" width="16" height="16" align="center"> <a href="https://torontojs.com/">Techlore</a> website creator
 - <img src="./images/ico-torontojs.png" width="16" height="16" align="center"> <a href="https://torontojs.com/">TorontoJS</a> contributor
 - <img src="./images/ico-pi-hole.svg" width="11" height="16" align="center"> <a href="https://pi-hole.net/">Pi-hole</a> Star Trek inspired <a href="https://github.com/MichalSvatos/pi-hole-star-trek-picard/">theme</a> creator
 
@@ -97,12 +101,35 @@ minimalist.
       </a>
       <br><a href="https://www.youtube.com/PatrikKorenar" rel="noopener noreferrer">Patrik Kořenář</a>
     </td>
+    <td align="center" width="120">
+      <a href="https://ente.io" rel="noopener noreferrer">
+        <img src="./images/ico-ente.svg" width="32" height="32" alt="Ente.io - Safe Home for your photos" />
+      </a>
+      <br><a href="https://ente.io" rel="noopener noreferrer">Ente</a>
+    </td>
   </tr>
 </table>
 
 ### Interesting books I've read recently
 
 <table>
+  <tr>
+    <td width="180">
+        <img src="https://github.com/MichalSvatos/MichalSvatos/raw/main/images/book-cover-the-demon-hunted-world.jpg" alt="The Demon-Haunted World: Science as a Candle in the Dark (Carl Sagan)" width="150">
+    </td>
+    <td>
+        <h3><a href="https://bookwyrm.social/book/67191/s/the-demon-haunted-world">The Demon-Haunted World: Science as a Candle in the Dark<br>(Carl Sagan)</a></h3><p>Sagan's message about the necessity of critical thinking and skepticism in a world often clouded by superstition and misinformation resonates deeply with me. However, while I found the book to be hopeful and inspiring, in the context of today's anti-science climate, it also filled me with a sense of despair.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="180">
+        <img src="https://github.com/MichalSvatos/MichalSvatos/raw/main/images/book-cover-the-martian.jpg" alt="The Martian (Andy Weir)" width="150">
+    </td>
+    <td>
+        <h3><a href="https://bookwyrm.social/book/1239499/s/the-martian">The Martian<br>(Andy Weir)</a></h3>
+        <p>While to movie is great - read the book!</p>
+    </td>
+  </tr>
   <tr>
     <td width="180">
         <img src="https://github.com/MichalSvatos/MichalSvatos/raw/main/images/book-cover-stolen-focus.jpg" alt="Stolen Focus: Why You Can't Pay Attention- and How to Think Deeply Again (Johann Hari)" width="150">
@@ -117,24 +144,6 @@ minimalist.
     </td>
     <td>
         <h3><a href="https://bookwyrm.social/book/263439/s/mindfck-cambridge-analytica-and-the-plot-to-break-america">Mindf*ck: Cambridge Analytica and the Plot to Break America<br>(Christopher Wylie)</a></h3><p><strong>You want to read this book!</strong> Especially if you're using any Meta products.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-        <img src="https://github.com/MichalSvatos/MichalSvatos/raw/main/images/book-cover-project-hail-mary.jpg" alt="Project Hail Mary (Andy Weir)" width="150">
-    </td>
-    <td>
-        <h3><a href="https://bookwyrm.social/book/215201/s/project-hail-mary">Project Hail Mary<br>(Andy Weir)</a></h3>
-        <p>Amazing sci-fi</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-        <img src="https://github.com/MichalSvatos/MichalSvatos/raw/main/images/book-cover-industry-of-lies.jpg" alt="Industry of lies, Průmysl lži" width="150">
-    </td>
-    <td>
-        <h3>The Industry of Lies<br>(Alex Alvarova)</h3>
-        <p>Book about modern propaganda (mostly the Russian one) and information warfare. Unfortunately only in <a href="https://www.goodreads.com/book/show/36628614-pr-mysl-l-i">Czech</a> ATM, but <a href="https://alvarova.com/books/">English version is coming</a></p>
     </td>
   </tr>
 </table>
