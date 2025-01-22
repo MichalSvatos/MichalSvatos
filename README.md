@@ -127,7 +127,7 @@ minimalist.
     </td>
     <td>
         <h3><a href="https://bookwyrm.social/book/1239499/s/the-martian">The Martian<br>(Andy Weir)</a></h3>
-        <p>While to movie is great - read the book!</p>
+        <p>While the movie is great - read the book!</p>
     </td>
   </tr>
   <tr>
