@@ -52,7 +52,7 @@ minimalist.
 
 #### Favorite quote
 
-> _“It is so easy to be wrong - and to persist in being wrong - when the costs of being wrong are paid by others.”_  
+> _“It is so easy to be wrong - and to persist in being wrong - when the costs of being wrong are paid by others.”_
 > _-- Thomas Sowell_
 
 ### Some projects and people I support
@@ -66,10 +66,7 @@ minimalist.
       <br><a href="https://signal.org/" rel="noopener noreferrer">Signal</a>
     </td>
     <td align="center" width="120">
-      <a href="https://mullvad.net/" rel="noopener noreferrer">
-        <img src="./images/ico-mullvad.svg" width="32" height="32" alt="Mullvad VPN" />
-      </a>
-      <br><a href="https://mullvad.net/" rel="noopener noreferrer">Mullvad VPN</a>
+      ?
     </td>
     <td align="center" width="120">
       <a href="https://simplelogin.io/" rel="noopener noreferrer">
