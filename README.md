@@ -9,16 +9,16 @@
 
 # Hi! Nice to see you here 👋
 
-I'm self-taught Frontend Developer, Graphic Designer and UX enthusiast with more than 10 years of experience in different areas. I'm a privacy advocate, open source enthusiast and aspiring digital
+I'm self-taught Frontend Developer, Graphic Designer and UX enthusiast with more than 15 years of experience in different areas. I'm a privacy advocate, open source enthusiast and aspiring digital
 minimalist.
 
 - 📍 Based in Ontario, **Canada** 🇨🇦
-- 🔭 **Looking for a meaningful job that solves actual problem for people**
+- 🔭 **Always looking for meaningful work that solves actual problem for people**
 - ❤️‍🔥 I love CSS, frontend web development, tweaking, refactoring and design and art in general
 - ⚙️ **I thrive on making things work better and more efficiently**
 - ✉️ Feel free to contact me on my [website](https://svatos.dev). Alternatively [Behance](https://www.behance.net/michalsvatos) or [LinkedIn](https://www.linkedin.com/in/michalsvatos/)
 - 🌐 no social networks, sorry 🤷
-- <img src="./images/ico-techlore.svg" width="16" height="16" align="center"> <a href="https://techlore.tech/">Techlore</a> website creator
+- <img src="./images/ico-techlore.svg" width="16" height="16" align="center"> Original <a href="https://techlore.tech/">Techlore</a> website creator
 - <img src="./images/ico-torontojs.png" width="16" height="16" align="center"> <a href="https://torontojs.com/">TorontoJS</a> contributor
 - <img src="./images/ico-pi-hole.svg" width="11" height="16" align="center"> <a href="https://pi-hole.net/">Pi-hole</a> Star Trek inspired <a href="https://github.com/MichalSvatos/pi-hole-star-trek-picard/">theme</a> creator
 
@@ -30,23 +30,43 @@ minimalist.
 
 #### Currently working on
 
-| [![Techlore](https://github.com/MichalSvatos/MichalSvatos/raw/main/images/preview-techlore.png)](https://github.com/MichalSvatos/techlore/)                                   |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Complete website overhaul for [Techlore](https://techlore.tech) based on Jekyll and Bulma framework. Source code on Techlore's [Github](https://github.com/techlore/website). |
+<a href="https://github.com/MichalSvatos/privacy-visuals">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MichalSvatos/privacy-visuals/raw/main/image-files/github-readme-privacy--dark.webp">
+    <img alt="Privacy Visuals" src="https://github.com/MichalSvatos/privacy-visuals/raw/main/image-files/github-readme-privacy--light.webp">
+  </picture>
+</a>
 
-| [![Pi-hole Star Trek Picard LCARS Theme](https://github.com/MichalSvatos/pi-hole-star-trek-picard/raw/main/previews/pi-hole-star-trek-picard-lcars.png)](https://github.com/MichalSvatos/pi-hole-star-trek-picard/) |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| LCARS Theme for [Pi-hole](https://github.com/pi-hole/pi-hole) dashboard. Written completely from scratch with pure CSS.                                                                                             |
+<a href="https://github.com/MichalSvatos/privacy-visuals/tree/main/wearable-visuals">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MichalSvatos/privacy-visuals/raw/main/image-files/github-readme-wearable--dark.webp">
+    <img alt="Wearable Visuals" src="https://github.com/MichalSvatos/privacy-visuals/raw/main/image-files/github-readme-wearable--light.webp">
+  </picture>
+</a>
 
+Collection of my original illustrations that makes privacy concepts more understandable.
+
+***
+
+[![Pi-hole Star Trek Picard LCARS Theme](https://github.com/MichalSvatos/pi-hole-star-trek-picard/raw/main/previews/pi-hole-star-trek-picard-lcars.png)](https://github.com/MichalSvatos/pi-hole-star-trek-picard/)
+
+LCARS Theme for [Pi-hole](https://github.com/pi-hole/pi-hole) dashboard. Written completely from scratch with pure CSS.
+
+***
 #### Previous ones
 
-| [![Mr. Shareman](https://github.com/MichalSvatos/MichalSvatos/raw/main/images/preview-header-mrshareman.png)](https://michalsvatos.github.io/mr-shareman/)                                                                     |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Simple PWA to share text information on the screen of your device. Great in combination with [SimpleLogin](#some-projects-and-people-i-support). Design inspired by the Pip-Boy wearable computer from the Fallout video game. |
+[![Techlore](https://github.com/MichalSvatos/MichalSvatos/raw/main/images/preview-techlore.png)](https://github.com/MichalSvatos/techlore/)
+Complete website overhaul for [Techlore](https://techlore.tech) based on Jekyll and Bulma framework. Source code on Techlore's [Github](https://github.com/techlore/website).
 
-| [![Help for Italy](https://github.com/MichalSvatos/MichalSvatos/raw/main/images/preview-header-helpforitaly.png)](https://michalsvatos.github.io/helpforitaly/) |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Website with a list of institutions and campaigns to support Italy with their fight against COVID-19 during the pandemic in 2020.                               |
+***
+
+[![Mr. Shareman](https://github.com/MichalSvatos/MichalSvatos/raw/main/images/preview-header-mrshareman.png)](https://michalsvatos.github.io/mr-shareman/)
+Simple PWA to share text information on the screen of your device. Great in combination with [SimpleLogin](#some-projects-and-people-i-support). Design inspired by the Pip-Boy wearable computer from the Fallout video game.
+
+***
+
+[![Help for Italy](https://github.com/MichalSvatos/MichalSvatos/raw/main/images/preview-header-helpforitaly.png)](https://michalsvatos.github.io/helpforitaly/)
+Website with a list of institutions and campaigns to support Italy with their fight against COVID-19 during the pandemic in 2020.
 
 ***
 
@@ -66,7 +86,10 @@ minimalist.
       <br><a href="https://signal.org/" rel="noopener noreferrer">Signal</a>
     </td>
     <td align="center" width="120">
-      ?
+      <a href="https://grapheneos.org/" rel="noopener noreferrer">
+        <img src="./images/ico-gos.svg" width="32" height="32" alt="GrapheneOS" />
+      </a>
+      <br><a href="https://grapheneos.org/" rel="noopener noreferrer">GrapheneOS</a>
     </td>
     <td align="center" width="120">
       <a href="https://simplelogin.io/" rel="noopener noreferrer">
