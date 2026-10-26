@@ -73,6 +73,7 @@ Website with a list of institutions and campaigns to support Italy with their fi
 #### Favorite quote
 
 > _“It is so easy to be wrong - and to persist in being wrong - when the costs of being wrong are paid by others.”_
+>
 > _-- Thomas Sowell_
 
 ### Some projects and people I support
